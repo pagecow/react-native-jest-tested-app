@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ContactsCont /> renders with the fav prop equal to false 1`] = `
+<ActivityIndicator
+  animating={true}
+  color="#6c94ad"
+  hidesWhenStopped={true}
+  size="large"
+/>
+`;
+
+exports[`<ContactsCont /> renders with the fav prop equal to true 1`] = `
+<ActivityIndicator
+  animating={true}
+  color="#6c94ad"
+  hidesWhenStopped={true}
+  size="large"
+/>
+`;
+
+exports[`<ContactsCont /> renders without crashing 1`] = `
+<ActivityIndicator
+  animating={true}
+  color="#6c94ad"
+  hidesWhenStopped={true}
+  size="large"
+/>
+`;

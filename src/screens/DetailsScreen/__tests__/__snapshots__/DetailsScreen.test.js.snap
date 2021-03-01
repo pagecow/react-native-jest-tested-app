@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<DetailsScreen /> renders with the chosenContactInfo prop included 1`] = `
+<ActivityIndicator
+  animating={true}
+  color="#6c94ad"
+  hidesWhenStopped={true}
+  size="large"
+  style={
+    Object {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+/>
+`;
+
+exports[`<DetailsScreen /> renders without crashing 1`] = `
+<ActivityIndicator
+  animating={true}
+  color="#6c94ad"
+  hidesWhenStopped={true}
+  size="large"
+  style={
+    Object {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+/>
+`;

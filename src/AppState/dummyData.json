@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Miss Piggy",
+        "id": "13",
+        "companyName": "Muppets, Baby",
+        "isFavorite": false,
+        "smallImageURL": "https://s3.amazonaws.com/technical-challenge/v3/images/miss-piggy-small.jpg",
+        "largeImageURL": "https://s3.amazonaws.com/technical-challenge/v3/images/miss-piggy-large.jpg",
+        "emailAddress": "Miss.Piggy@muppetsbaby.com",
+        "birthdate": "1987-05-11",
+        "phone": {
+            "work": "602-225-9543",
+            "home": "602-225-9188",
+            "mobile": ""
+        },
+        "address": {
+            "street": "3530 E Washington St",
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "US",
+            "zipCode": "85034"
+        }
+    },
+    {
+        "name": "Winnie-the-Pooh",
+        "id": "19",
+        "companyName": "Honey Bear, Inc",
+        "isFavorite": false,
+        "smallImageURL": "https://s3.amazonaws.com/technical-challenge/v3/images/winnie-the-pooh-small.jpg",
+        "largeImageURL": "https://s3.amazonaws.com/technical-challenge/v3/images/winnie-the-pooh-large.jpg",
+        "emailAddress": "Winnie.the.Pooh@honeybearinc.com",
+        "birthdate": "1988-07-24",
+        "phone": {
+            "home": "808-949-8253"
+        },
+        "address": {
+            "street": "933 Wiliwili St",
+            "city": "Honolulu",
+            "state": "HI",
+            "country": "US",
+            "zipCode": "96826"
+        }
+    },
+    {
+        "name": "Charlie Brown",
+        "id": "1",
+        "companyName": "Peanuts",
+        "isFavorite": false,
+        "smallImageURL": "https://s3.amazonaws.com/technical-challenge/v3/images/charlie-brown-small.jpg",
+        "largeImageURL": "https://s3.amazonaws.com/technical-challenge/v3/images/charlie-brown-large.jpg",
+        "emailAddress": "Charlie.Brown@peanuts.com",
+        "birthdate": "1980-12-04",
+        "phone": {
+            "work": "907-345-0962",
+            "home": "907-345-1215",
+            "mobile": "650-345-1220"
+        },
+        "address": {
+            "street": "815 S Glendora Ave",
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "US",
+            "zipCode": "91790"
+        }
+    },
+    {
+        "name": "Hermione Granger",
+        "id": "5",
+        "companyName": "Gryffindor",
+        "isFavorite": true,
+        "smallImageURL": "https://s3.amazonaws.com/technical-challenge/v3/images/hermione-granger-small.jpg",
+        "largeImageURL": "https://s3.amazonaws.com/technical-challenge/v3/images/hermione-granger-large.jpg",
+        "emailAddress": "Hermione.Granger@gryffindor.com",
+        "birthdate": "1964-02-10",
+        "phone": {
+            "work": "815-467-1244",
+            "home": "815-467-0487",
+            "mobile": "815-467-5007"
+        },
+        "address": {
+            "street": "641 W Lake St",
+            "city": "Chicago",
+            "state": "IL",
+            "country": "US",
+            "zipCode": "60661"
+        }
+    },
+    {
+        "name": "Roger Rabbit",
+        "id": "16",
+        "isFavorite": true,
+        "smallImageURL": "https://s3.amazonaws.com/technical-challenge/v3/images/roger-rabbit-small.jpg",
+        "largeImageURL": "https://s3.amazonaws.com/technical-challenge/v3/images/roger-rabbit-large.jpg",
+        "emailAddress": "Roger.Rabbit@toontown.com",
+        "birthdate": "1988-06-02",
+        "phone": {
+            "work": "212-227-3681"
+        },
+        "address": {
+            "street": "15 Park Row",
+            "city": "New York",
+            "state": "NY",
+            "country": "US",
+            "zipCode": "10038"
+        }
+    }
+]
